@@ -1,3 +1,4 @@
+```
 <?php
 $host = 'localhost'; // Datenbank-Host
 $dbname = 'testing'; // Name der Datenbank
@@ -109,3 +110,4 @@ try {
     echo "Fehler bei der Erstellung der Datenbank oder Tabellen: " . $e->getMessage();
 }
 ?>
+```
